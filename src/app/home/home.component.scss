@@ -1,0 +1,87 @@
+.content {
+    display: flex;
+    margin: 82px auto 32px;
+    padding: 0 16px;
+    max-width: 960px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .design{
+    border: 6px solid #72c8cb;
+    margin-right: 8em;
+    padding: 8px 8px 8px 8px;
+    font-size: 19px;
+    font-weight: 500;
+    color: #eee;
+    background-color: cadetblue;
+    border-radius: 8px;
+  }
+
+  .cell-design{
+    border: 2px solid #46a8ac;;
+    margin-right: 1em;
+    border-radius: 50px;
+    background-color: #3dd9d0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    text-align: center;
+    max-width: 73px;
+    font-weight: bold;
+    color: #6b6262;
+  }
+
+
+  .cell-design-exp{
+    border: 2px solid #46a8ac;;
+    margin-right: 1em;
+    border-radius: 50px;
+    background-color: #ffc000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    text-align: center;
+    max-width: 73px;
+    font-weight: bold;
+    color: #6b6262;
+  }
+
+
+//   .cell-design:hover {
+//     transform: scale(1.2); 
+//   }
+  .demo-inline-calendar-card {
+    width: 300px;
+  }
+
+  .date-cls{
+    margin-top: 15px;
+    font-weight: bold;
+    color: darkblue;
+  }
+
+  .score{
+    margin-left: 2em;
+    border: 20px solid #d5f3e7;
+    padding: 40px 40px 40px 40px;
+    border-radius: 50%;
+    background-color: #22c17b;
+    font-weight: bold;
+    color: #eee;
+    font-size: 20px;
+
+  }
+
+  .scorepts{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .check-score{
+
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 4em;
+}
+  
